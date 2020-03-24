@@ -1,0 +1,18 @@
+body {
+  font-family: 'Advent Pro', sans-serif !important;
+}
+
+.link {
+  color: white !important;
+  margin-right: 20px;
+}
+.link:hover {
+  color: rgb(181,178,178) !important;
+  transform: scale(1.1) !important;
+  text-decoration: none;
+}
+
+.cardbox:hover {
+  box-shadow: none !important;
+  cursor: pointer;
+}
